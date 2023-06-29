@@ -10,9 +10,9 @@
 [点我前往](https://github.com/adams549659584/go-proxy-bingai)
 
 ### 演示站点：
-https://bing.vcanbb.top/ （官方）
-https://bing-vercel.vcanbb.top/ （官方Vercel）
-https://newbing.takagi.icu （一只鬆自建）
+https://bing.vcanbb.top/ （官方）  
+https://bing-vercel.vcanbb.top/ （官方Vercel）  
+https://newbing.takagi.icu （一只鬆自建）  
 
 ### 其他：
 本仓库由[一只鬆](https://github.com/yzsong06)维护，更多内容可前往一只鬆个人博客(https://www.takagi.icu)查看！
