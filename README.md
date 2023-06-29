@@ -4,8 +4,8 @@
 基于微软 New Bing 用 Vue3 和 Go 简单定制的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用，基本兼容微软 Bing AI 所有功能，无需登录即可畅聊。
 
 ### 部署项目：
-<a href="https://repl.it/github/yzsong06/Replit_Go_BingAi">
-  <img alt="Run on Repl.it" src="https://repl.it/badge/github/yzsong06/Replit_Go_BingAi" style="height: 40px; width: 190px;" />
+<a href="https://repl.it/github/yzsong06/Replit-Go-Proxy-BingAi">
+  <img alt="Run on Repl.it" src="https://repl.it/badge/github/yzsong06/Replit-Go-Proxy-BingAi" style="height: 40px; width: 190px;" />
 </a>
 
 ### 使用
