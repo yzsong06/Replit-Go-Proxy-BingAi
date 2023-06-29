@@ -12,11 +12,11 @@
 
 ### 使用
 点击部署按钮后，将会跳转并自动将仓库导入至Replit项目中（若无账号须先注册）。部署完成后，点击上方“Run”按钮即可启动运行。
-![演示](https://cdn.jsdelivr.net/gh/yzsong06/Replit_Go_BingAi/img/01.webp)
+![演示](/img/01.webp)
 
 ### 绑定自定义域名
 启动项目后，在弹出的“Webview”界面点击地址栏旁边的“编辑”图标，点击“Create domain link”，输入你想绑定的自定义域名后，按照提示在域名解析商添加指定CNAME与TXT解析记录，等待解析完成即可使用。
-![绑定域名](https://cdn.jsdelivr.net/gh/yzsong06/Replit_Go_BingAi/img/02.webp)
+![绑定域名](/img/02.webp)
 
 ### 项目仓库：
 [点我前往](https://github.com/adams549659584/go-proxy-bingai)
