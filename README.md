@@ -27,4 +27,5 @@ https://bing-vercel.vcanbb.top/ （官方Vercel）
 https://newbing.takagi.icu （一只鬆自建）  
 
 ### 其他：
-本仓库由[一只鬆](https://github.com/yzsong06)维护，更多内容可前往一只鬆个人博客(https://www.takagi.icu) 查看！
+本仓库由[一只鬆](https://github.com/yzsong06)维护，更多内容可前往一只鬆个人博客(https://www.takagi.icu) 查看！  
+感谢[轻虹空雨](https://github.com/MuFeng086)参与Readme完善！
