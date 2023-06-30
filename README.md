@@ -1,4 +1,4 @@
-## 在Replit部署[Go-Proxy-BingAI](https://github.com/adams549659584/go-proxy-bingai)
+## 在Replit部署 [Go-Proxy-BingAI](https://github.com/adams549659584/go-proxy-bingai)
 
 ### 源项目简介：
 基于微软 New Bing 用 Vue3 和 Go 简单定制的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用，基本兼容微软 Bing AI 所有功能，无需登录即可畅聊。
@@ -10,13 +10,16 @@
 
 ### 使用
 点击部署按钮后，将会跳转并自动将仓库导入至Replit项目中（若无账号须先注册）。部署完成后，点击上方“Run”按钮即可启动运行。
-在弹出的Webview窗口，会显示一行地址，直接使用这个地址用即可。（也可以绑定自己的域名）
+
+在弹出的Webview窗口，会显示一行末尾为.repo的地址，直接使用这个地址即可。（也可以绑定自己的域名）
+
 若你要更新程序版本，则需删除main.sh代码第一行的第一个#注释，然后Run运行，命令行会自动完成更新操作，更新完成后请重新添加注释。 
 
 ![演示](/img/01.webp)
 
 ### 绑定自定义域名（可选）
 启动项目后，在弹出的“Webview”界面点击地址栏旁边的“编辑”图标，点击“Create domain link”，输入你想绑定的自定义域名后，按照提示在域名解析商添加指定CNAME与TXT解析记录。
+
 等待解析完成后，回到Replit页面，点击下方“Link domain”即可使用。
 
 ![绑定域名](/img/02.webp)
