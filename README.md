@@ -1,5 +1,5 @@
 ## 在Replit部署 [Go-Proxy-BingAI](https://github.com/adams549659584/go-proxy-bingai)
----
+
 【通知】由于上游代理链路问题，本仓库功能目前无法使用。
 ---
 ### 源项目简介：
