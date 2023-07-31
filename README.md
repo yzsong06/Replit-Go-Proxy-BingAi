@@ -1,6 +1,6 @@
 ## 在Replit部署 [Go-Proxy-BingAI](https://github.com/adams549659584/go-proxy-bingai)
 
-【通知】由于上游代理链路问题，本仓库功能目前无法使用。
+【通知】由于上游代理链路问题，本仓库功能目前无法使用（微软出手封掉了非住宅IP对New Bing 的反代，包括Cloudflare也是）
 ---
 ### 源项目简介：
 基于微软 New Bing 用 Vue3 和 Go 简单定制的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用，基本兼容微软 Bing AI 所有功能，无需登录即可畅聊。
